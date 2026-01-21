@@ -35,6 +35,7 @@
 #### Решение 2
 
 *Скриншот systemctl status memcached*
+
 ![Скриншот systemctl status memcached](https://github.com/KupIOxaCaH/Redis_memcached/blob/main/materials/task2.png)
 
 ---
@@ -50,9 +51,11 @@
 #### Решение 3
 
 *Ручной ввод команд*
+
 ![Ручной ввод команд](https://github.com/KupIOxaCaH/Redis_memcached/blob/main/materials/task3.png)
 
 *Ввод скриптом-однострочником*
+
 ![Ввод скриптом-однострочником](https://github.com/KupIOxaCaH/Redis_memcached/blob/main/materials/task3.2.png)
 
 ---
@@ -68,6 +71,7 @@
 #### Решение 4
 
 *Скриншот операции*
+
 ![Скриншот операции](https://github.com/KupIOxaCaH/Redis_memcached/blob/main/materials/task4.png)
 
 ---
@@ -83,6 +87,7 @@
 #### Решение 5
 
 *Скриншот операции*
+
 ![Скриншот операции](https://github.com/KupIOxaCaH/Redis_memcached/blob/main/materials/task5.png)
 
 ---
